@@ -60,8 +60,10 @@ GitHub：https://github.com/dengcao/File-Recovery
 4.等待文件恢复完成，即可在选择保存的文件夹中找到该文件。
 
 
-### Wise_Data_Recovery_PRO_v6.2.0：
+### Wise_Data_Recovery_PRO_v6.2.0免激活版：
 
-Wise Data Recovery是轻量级免费工具，安装包仅2MB，有免安装便携版，无广告无捆绑。免费版支持最高2GB文件恢复，适合临时应急，扫描速度极快，会用颜色标记文件可恢复状态。
+Wise Data Recovery 是一款轻量级高效的数据恢复工具，无广告无捆绑。免费版支持最高2GB文件恢复，适合临时应急，扫描速度极快，会用颜色标记文件可恢复状态，支持多种数据丢失场景：
 
-操作步骤：下载便携版解压，直接运行程序，顶部下拉选择目标磁盘，点击"Scan"开始扫描，扫描完成后，双击预览文件，筛选绿色标记文件，勾选目标文件，点击"Recover"，保存到其他分区。
+回收站清空、Shift+Delete永久删除、磁盘格式化、U盘、移动硬盘等外接设备数据丢失。
+
+操作步骤：https://blog.csdn.net/qq363685855/article/details/160153172
